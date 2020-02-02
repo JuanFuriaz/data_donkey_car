@@ -1,0 +1,1 @@
+{"start": 1580654931.5658977, "types": ["image_array", "float", "float", "str", "image_array_array", "float_array", "float_array", "str_array"], "inputs": ["cam/image_array", "user/angle", "user/throttle", "user/mode", "history/cam/image_array", "history/user/angle", "history/user/throttle", "history/user/mode"]}
